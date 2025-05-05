@@ -26,6 +26,6 @@ A repo to track, store and share awesome resources to learn and dialect in Avest
 - [some resources form Tehran Moubeds counsile](https://www.anjomanemobedan.com/2012-10-28-08-14-42.html)
 - [Online keyboard for Avestan and Cuneiform](https://kheradgan.ir/avestan/)
 - [California Zorastrian Center Avestan Resources](https://www.czc.org/dindabire)
-- [Wikipedia with the alphabet -English-]([https://fa.wikipedia.org/wiki/خط_اوستایی](https://en.wikipedia.org/wiki/Avestan_alphabet))
+- [Wikipedia with the alphabet -English-][https://fa.wikipedia.org/wiki/خط_اوستایی](https://en.wikipedia.org/wiki/Avestan_alphabet)
 - [Wikipedia with the alphabet -Farsi-](https://fa.wikipedia.org/wiki/خط_اوستایی)
-- 
+
